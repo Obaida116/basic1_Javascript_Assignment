@@ -19,6 +19,7 @@ function budgetCalculator([a, b, c]) {
     return totalCost;
 }
 
+
 // Problem-3: Calculating Hotel Cost;
 
 var n = 1;
